@@ -1,0 +1,27 @@
+C:\Users\shari\
+
+# Core libraries
+numpy>=1.26.0,<2.2.0
+opencv-python-headless>=4.9.0.80
+tomli>=2.0.1
+
+# TensorFlow and dependencies
+tensorflow==2.19.1
+absl-py>=1.0.0
+astunparse>=1.6.0
+flatbuffers>=24.3.25
+gast!=0.5.0,!=0.5.1,!=0.5.2,>=0.2.1
+google-pasta>=0.1.1
+grpcio>=1.24.3,<2.0
+h5py>=3.11.0
+keras>=3.5.0
+libclang>=13.0.0
+ml-dtypes>=0.5.1,<1.0.0
+opt-einsum>=2.3.2
+protobuf>=3.20.3,<6.0.0dev
+tensorboard~=2.19.0
+termcolor>=1.1.0
+wrapt>=1.11.0
+
+# Albucore
+albucore==0.0.13
